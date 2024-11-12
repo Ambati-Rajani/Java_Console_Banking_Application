@@ -25,9 +25,9 @@ Monthly interest is added to the balance for savings accounts based on a fixed i
 Users can check their current balance for any account.
 
 ### Technologies Used
-##### Java: Core Java language features (classes, objects, arrays).
-##### Console-based User Interface: Command-line interactions with simple text prompts.
+ Java: Core Java language features (classes, objects, arrays).
+ Console-based User Interface: Command-line interactions with simple text prompts.
 
 ### equirements
-##### JDK 8 or higher: Ensure you have a Java Development Kit installed to run the application.
-##### Operating System: The application is platform-independent and works on any system with a Java runtime.
+ JDK 8 or higher: Ensure you have a Java Development Kit installed to run the application.
+ Operating System: The application is platform-independent and works on any system with a Java runtime.
