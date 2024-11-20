@@ -14,19 +14,24 @@ Logged-in users can open a new bank account (savings or checking) with an initia
 Each account has a unique account number and basic details.
 
 #### 3.Transaction Processing
+
 Users can deposit and withdraw funds from their accounts.
 Withdrawals are validated to prevent overdrafts.
 
 #### 4.Statement Generation
+
 Users can view their transaction history, showing details like date, type (deposit/withdrawal), and amount.
 
 #### 5.Interest Calculation (For Savings Accounts)
+
 Monthly interest is added to the balance for savings accounts based on a fixed interest rate.
 
 #### 6.Balance Check
+
 Users can check their current balance for any account.
 
 ### Technologies Used
+
  Java: Core Java language features (classes, objects, arrays).
  Console-based User Interface: Command-line interactions with simple text prompts.
 
