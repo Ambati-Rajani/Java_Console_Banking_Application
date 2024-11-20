@@ -1,3 +1,6 @@
+
+
+
 # Java_Console_Banking_Application
 
 This Java Console Banking Application allows users to perform core banking functionalities through a text-based interface. Users can register, log in, open new accounts, deposit and withdraw funds, view transaction history, check balances, and calculate interest on savings accounts. The application is simple, relying on arrays to store data and implement banking operations.
@@ -5,7 +8,6 @@ This Java Console Banking Application allows users to perform core banking funct
 ### Features
 
 #### 1. User Registration & Login
-
 Users can create an account with a unique username and password.  
 Existing users can log in using their credentials.
 
