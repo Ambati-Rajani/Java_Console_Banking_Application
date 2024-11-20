@@ -5,6 +5,7 @@ This Java Console Banking Application allows users to perform core banking funct
 ### Features
 #### 1.User Registration & Login
 
+
 Users can create an account with a unique username and password.
 Existing users can log in using their credentials.
 
