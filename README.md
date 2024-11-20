@@ -4,10 +4,12 @@ This Java Console Banking Application allows users to perform core banking funct
 
 ### Features
 #### 1.User Registration & Login
+
 Users can create an account with a unique username and password.
 Existing users can log in using their credentials.
 
 #### 2.Account Opening
+
 Logged-in users can open a new bank account (savings or checking) with an initial deposit.
 Each account has a unique account number and basic details.
 
